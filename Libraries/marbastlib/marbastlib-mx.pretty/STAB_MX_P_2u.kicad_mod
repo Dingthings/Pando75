@@ -41,8 +41,8 @@
   (fp_arc (start 15.28125 7.500001) (mid 15.134803 7.853554) (end 14.78125 8.000001) (layer "Eco2.User") (width 0.05) (tstamp e2b14493-9448-4e73-aa05-66a7a4d92c99))
   (pad "" np_thru_hole circle (at 11.90625 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp 1b65a413-46b1-473a-be21-8a242b894618))
   (pad "" np_thru_hole circle (at -11.90625 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp 9a2b07f4-263e-4136-8437-1989419e4076))
-  (pad "" thru_hole circle (at -11.90625 -6.985) (size 4 4) (drill 3.048) (layers *.Cu *.Mask) (tstamp b1458ef4-617b-4c49-ac45-a5a84f41623e))
-  (pad "" thru_hole circle (at 11.90625 -6.985) (size 4 4) (drill 3.048) (layers *.Cu *.Mask) (tstamp eeabc32f-e7d0-4e89-bbbf-0d6921f34c07))
+  (pad "" thru_hole circle (at -11.90625 -6.985) (size 4 4) (drill 3.048) (layers *.Cu "B.Mask") (tstamp b1458ef4-617b-4c49-ac45-a5a84f41623e))
+  (pad "" thru_hole circle (at 11.90625 -6.985) (size 4 4) (drill 3.048) (layers *.Cu "B.Mask") (tstamp eeabc32f-e7d0-4e89-bbbf-0d6921f34c07))
   (group "" (id 66322dcb-e4ec-492d-869d-f17774807262)
     (members
       0083338f-2cd0-4cf3-b6c1-07cbafda9e9a
