@@ -1,7 +1,10 @@
 (sym_lib_table
+  (version 7)
   (lib (name "keebio")(type "Legacy")(uri "D:/GitHub/Pando75/Libraries/keebio-components/keebio.lib")(options "")(descr ""))
   (lib (name "marbastlib-mx")(type "KiCad")(uri "D:/GitHub/Pando75/Libraries/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "D:/GitHub/Pando75/Libraries/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "D:/GitHub/Pando75/Libraries/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "Sleep-lib")(type "KiCad")(uri "D:/GitHub/Pando75/Libraries/RP2040-designguide/Libraries/Sleep-lib/Sleep-lib.kicad_sym")(options "")(descr ""))
+  (lib (name "USON-8(4x3)")(type "KiCad")(uri "D:/GitHub/Pando75/Libraries/Extra-components/AT25SL321-MBUE-T.kicad_sym")(options "")(descr ""))
+  (lib (name "skyloong")(type "KiCad")(uri "D:/GitHub/Pando75/Libraries/Extra-components/skyloong.kicad_sym")(options "")(descr ""))
 )
